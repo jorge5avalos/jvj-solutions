@@ -155,6 +155,21 @@ body {
   font-family: Arial, sans-serif;
 }
 
+.wassap{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  margin: 30px;
+  z-index: 50;
+  
+}
+
+.telefono{
+ color: #0077b5;
+ font-size: 20px;
+ font-weight: bold;
+}
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
